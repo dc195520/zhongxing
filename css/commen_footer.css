@@ -1,0 +1,134 @@
+
+/* 页脚底部 */
+.footer{
+    width:100%;
+    /* height:1000px; */
+}
+.f_header{
+    width:100%;
+    /* height:140px; */
+}
+.f_header ul{
+    margin-left:65px;
+    margin-top:52px;
+    padding-bottom:110px;
+    border-bottom:1px solid #dfdfdf;
+}
+.f_header ul li{
+    float: left;
+    margin-right:110px;
+}
+.f_header ul li:nth-child(1){
+    margin-left:100px;
+}
+.f_header ul li img{
+    width:50px;
+    height:50px;
+    margin: 0 auto;
+}
+.f_header ul li span{
+    line-height: 50px;
+    font-size:18px;
+    color:#333;
+}
+.f_conter{
+    width:100%;
+    height:285px;
+    border:1px solid #dfdfdf;
+    box-sizing:border-box;
+}
+.f_conter_left{
+    width:720px;
+    height:285px;
+    float: left;
+    margin-left:160px;
+}
+.f_conter_left dl{
+    width:100px;
+    /* height:285px; */
+    float:left;
+    margin-left:50px;
+    margin-top:50px;
+}
+.f_conter_left dl h5{
+    font-size:18px;
+    color:#000;
+    margin-top:8px;
+}
+.f_conter_left dl dd{
+    margin-top:22px;
+}
+.f_conter_left dl dd a{
+    font-size:14px;
+    color:#999;
+}
+.f_conter_left dl dd a:hover{
+    color:#fc6628;
+}
+.f_conter_right{
+    width:300px;
+    height:285px;
+    float:left;
+    margin-left:120px;
+}
+.f_conter_right .kf{
+    width:100px;
+    height:30px;
+    background:#0086d1;
+    margin-bottom:24px;
+    margin-top:78px;
+    cursor: pointer;
+}
+.f_conter_right .kf img{
+    line-height:30px;
+    margin-left:10px; 
+    vertical-align: middle;
+    display: inline-block;
+}
+.f_conter_right .kf span{
+    color:#fff;
+    font-size:12px;
+    line-height: 30px;
+}
+.f_bottom{
+    width:100%;
+    height:110px;
+    text-align: center;
+}
+.f_bottom ul{
+    height:30px;
+    width:380px;
+    margin:0 auto;
+    padding-top:25px;
+}
+.f_bottom ul li{
+    float: left;
+    padding:0px 10px;
+    border-right:1px solid #5a5453;
+}
+.f_bottom ul li:last-child{
+    border-right:none;
+}
+.f_bottom ul li a{
+    color:#767676;
+    font-size:14px;
+}
+.f_bottom ul li a:hover{
+    color:black;
+}
+.sever a{
+    display:inline-block;
+    color:#c2c2c2;
+}
+.sever span{
+    color:#c2c2c2;
+}
+.hao span{
+    color:#c2c2c2;
+}
+.hao a{
+    color:#c2c2c2;
+}
+.hao a:hover{
+    text-decoration: underline;
+}
